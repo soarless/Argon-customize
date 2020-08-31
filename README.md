@@ -7,7 +7,7 @@
 
 （3）独立分类页面模板
 
-使用方法与效果：https://blog.soarless.com/argon-category-timeline/
+使用方法与效果示例：https://blog.soarless.com/argon-category-timeline/
 
 argon主题作者链接：https://github.com/solstice23/argon-theme
 
