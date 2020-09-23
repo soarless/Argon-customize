@@ -1,0 +1,4 @@
+.link-content li{margin-bottom:20px;width:50%;display:inline-block;}
+.link-content li img{border-radius:100%;transition:0.15s;-webkit-transtion:0.15s;height:64px !important;width:64px !important;border:0 !important;margin-right:10px;}
+.link-content li img:hover{transform:rotate(15deg);-webkit-transform:rotate(15deg);}
+.link-content li a:hover:before{transform:scaleX(0) !important;}
